@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfplan
+*.tfr
+.terraform.lock.hcl
+
+# Binary
+*.exe
+*.dll
+*.so
